@@ -82,7 +82,7 @@ a{
     color:#404040
 }
 a:hover,a:focus{
-    color:#0085a1
+    color:#f5a1c1
 }
 a img:hover,a img:focus{
     cursor:zoom-in
@@ -114,8 +114,8 @@ img.shadow{
     select{
         -webkit-appearance:none;
         margin-top:15px;
-        color:#337ab7;
-        border-color:#337ab7;
+        color:#f5a1c1;
+        border-color:#f5a1c1;
         padding:0 .4em;
         background:#fff
     }
@@ -139,10 +139,10 @@ pre code{
     word-wrap:normal
 }
 .post-container a{
-    color:#337ab7
+    color:#f5a1c1
 }
 .post-container a:hover,.post-container a:focus{
-    color:#0085a1
+    color:#f5a1c1
 }
 .post-container h1,.post-container h2,.post-container h3,.post-container h4,.post-container h5,.post-container h6{
     margin:30px 0 10px
@@ -306,13 +306,13 @@ pre code{
     color:#404040	
 }	
 .navbar-custom.invert .navbar-brand:hover,.navbar-custom.invert .navbar-brand:focus{	
-    color:#0085a1	
+    color:#f5a1c1	
 }	
 .navbar-custom.invert .nav li a{	
     color:#404040	
 }	
 .navbar-custom.invert .nav li a:hover,.navbar-custom.invert .nav li a:focus{	
-    color:#0085a1	
+    color:#f5a1c1	
 }
 @media only screen and (min-width:1170px){
     .navbar-custom{
@@ -340,13 +340,13 @@ pre code{
         color:#404040
     }
     .navbar-custom.is-fixed .navbar-brand:hover,.navbar-custom.is-fixed .navbar-brand:focus{
-        color:#0085a1
+        color:#f5a1c1
     }
     .navbar-custom.is-fixed .nav li a{
         color:#404040
     }
     .navbar-custom.is-fixed .nav li a:hover,.navbar-custom.is-fixed .nav li a:focus{
-        color:#0085a1
+        color:#f5a1c1
     }
     .navbar-custom.is-visible{
         -webkit-transform:translate3d(0,100%,0);
@@ -423,7 +423,7 @@ pre code{
 }
 @media only screen and (min-width:768px){
     .intro-header .site-heading h1,.intro-header .page-heading h1{
-        font-size:80px
+        font-size:40px
     }
 }
 .intro-header .post-heading h1{
@@ -472,7 +472,7 @@ pre code{
 }
 .post-preview>a:hover,.post-preview>a:focus{
     text-decoration:none;
-    color:#0085a1
+    color:#f5a1c1
 }
 .post-preview>a>.post-title{
     font-size:21px;
@@ -496,7 +496,7 @@ pre code{
 }
 
 .post-preview>.post-meta>a:hover,.post-preview>.post-meta>a:focus{
-    color:#0085a1;
+    color:#f5a1c1;
     text-decoration:none
 }
 @media only screen and (min-width:768px){
@@ -557,7 +557,7 @@ footer .copyright a{
     color:#337ab7
 }
 footer .copyright a:hover,footer .copyright a:focus{
-    color:#0085a1
+    color:#f5a1c1
 }
 .floating-label-form-group{
     font-size:14px;
@@ -603,7 +603,7 @@ footer .copyright a:hover,footer .copyright a:focus{
     opacity:1
 }
 .floating-label-form-group-with-focus label{
-    color:#0085a1
+    color:#f5a1c1
 }
 form .row:first-child .floating-label-form-group{
     border-top:1px solid #eee
@@ -623,8 +623,8 @@ form .row:first-child .floating-label-form-group{
     padding:25px 35px
 }
 .btn-default:hover,.btn-default:focus{
-    background-color:#0085a1;
-    border:1px solid #0085a1;
+    background-color:#f5a1c1;
+    border:1px solid #f5a1c1;
     color:#fff
 }
 .pager{
@@ -654,8 +654,8 @@ form .row:first-child .floating-label-form-group{
 }
 .pager li>a:hover,.pager li>a:focus{
     color:#fff;
-    background-color:#0085a1;
-    border:1px solid #0085a1
+    background-color:#f5a1c1;
+    border:1px solid #f5a1c1
 }
 .pager .disabled>a,.pager .disabled>a:hover,.pager .disabled>a:focus,.pager .disabled>span{
     color:gray;
@@ -665,12 +665,12 @@ form .row:first-child .floating-label-form-group{
 ::-moz-selection{
     color:#fff;
     text-shadow:none;
-    background:#0085a1
+    background:#f5a1c1
 }
 ::selection{
     color:#fff;
     text-shadow:none;
-    background:#0085a1
+    background:#f5a1c1
 }
 img::selection{
     color:#fff;
@@ -681,7 +681,7 @@ img::-moz-selection{
     background:0 0
 }
 body{
-    webkit-tap-highlight-color:#0085a1
+    webkit-tap-highlight-color:#f5a1c1
 }
 .tags{
     margin-bottom:-5px
@@ -729,7 +729,7 @@ body{
     background:#D6D6D6
 }
 #tag_cloud a:hover,#tag_cloud .tag:hover,#tag_cloud a:active,#tag_cloud .tag:active{
-    background-color:#0085a1!important
+    background-color:#f5a1c1!important
 }
 @media only screen and (min-width:768px){
     #tag_cloud{
@@ -748,7 +748,7 @@ body{
     margin-top:0
 }
 .listing-seperator{
-    color:#0085a1;
+    color:#f5a1c1;
     font-size:21px!important
 }
 .listing-seperator::before{
@@ -983,7 +983,7 @@ body{
     background-color: #f5f5f5;
   }
   .side-catalog .catalog-body .active a {
-    color: #0085a1 !important;
+    color: #f5a1c1 !important;
   }
   @media (max-width: 1200px) {
     .side-catalog {

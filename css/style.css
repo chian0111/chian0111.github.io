@@ -42,7 +42,7 @@ Tracks is distributed under the terms of the GNU GPL
 .entry-tags, .author-meta .author span, .comments-number h2, .comment-author .author-name, .site-footer h1, .design-credit, .widget-title, .widget li, .menu-footer-items a, .menu-secondary-items a {
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 /* Social Media Brand Colors */
