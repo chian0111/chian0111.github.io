@@ -2672,6 +2672,7 @@ li.pingback:first-child {
 #bbp_topic_title {
   max-width: none;
 }
+@import url('https://fonts.googleapis.com/css2?family=Capriola&display=swap')
 
 .bbp-submit-wrapper button {
   background: #38312f;
@@ -2682,7 +2683,8 @@ li.pingback:first-child {
   min-height: 45px;
   outline: none;
   border: none;
-  font-family: "raleway", sans-serif;
+  font-family: "Capriola", sans-serif;
+  
   font-size: 0.813em;
   line-height: 1.85;
   border-radius: 0;
