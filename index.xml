@@ -1,26 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kitty的學習日誌</title>
+    <title>Kitty&#39;s Blog</title>
     <link>https://chian0111.github.io/</link>
-    <description>Recent content on Kitty的學習日誌</description>
+    <description>Recent content on Kitty&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 19 Mar 2024 10:07:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://chian0111.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog 1/365：【留白的寒假】</title>
-      <link>https://chian0111.github.io/blog/2/</link>
-      <pubDate>Tue, 19 Mar 2024 10:07:00 +0800</pubDate>
-      <guid>https://chian0111.github.io/blog/2/</guid>
-      <description>是機緣 ，也是增廣見識的機會。 畢竟之前都是做跟會計壓根子打不著的行銷實習，所以選擇在寒假到事務所實習工讀。&#xA;有鑒於已經得到今年九月的正職 offer，就有個寒假工讀的機會能先到組上學習學習。&#xA;寒假說長不常說短不短，三個星期到事務所工讀，剩下的一星期過年團聚，就得迎來新的一學期了！&#xA;還記得，1/17是個綿綿細雨的報到日，先行與其他的工讀生到69樓的會議室報到、領電腦、上課，中午也與新認識的政大同學到樓下美食街飽餐一頓，第一次以員工餐的優惠價格購餐也真是新鮮的體驗！第一天也匆匆結束，我們組總共有6個實習生，聽聞其中２個工讀生隔天就要出外勤，心想：大概幾天後才會輪到我吧！沒想到，五分鐘後，就接到了隔天就須到 汐止宏碁大樓 出外勤的任務。&#xA;汐科的綿綿陰雨，道盡職場人生的縮影。 組上的產業約為傳產（軟體、製藥、膠帶等）、外商（新加坡、香港的小外商），</description>
+      <title>2024 目標</title>
+      <link>https://chian0111.github.io/2024/03/20/2024-goal/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://chian0111.github.io/2024/03/20/2024-goal/</guid>
+      <description>&amp;ldquo;首先，先祝大家新年快樂！！&amp;rdquo; 前言 此篇文的脈絡，會先總結 2023 最令我感到驕傲的三件事， 然後再分享年初規劃的 2024 目標 一、20</description>
     </item>
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://chian0111.github.io/blog/post-1/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://chian0111.github.io/blog/post-1/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <title>Clean White Theme for Hugo</title>
+      <link>https://chian0111.github.io/post/readme/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://chian0111.github.io/post/readme/</guid>
+      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
+    </item>
+    <item>
+      <title>如何从外部访问Kubernetes集群中的应用？</title>
+      <link>https://chian0111.github.io/2017/11/28/access-application-from-outside/</link>
+      <pubDate>Tue, 28 Nov 2017 12:00:00 +0000</pubDate>
+      <guid>https://chian0111.github.io/2017/11/28/access-application-from-outside/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;&#xA;&lt;p&gt;我们知道，kubernetes的Cluster Network属于私有网络，只能在cluster Network内部才能访问部署的应用，那如何才能将Kubernetes集群中的应用暴露到外部网络，为外部用户提供服务呢？本文探讨了从外部网络访问kubernetes cluster中应用的几种实现方式。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://chian0111.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chian0111.github.io/about/</guid>
+      <description>About Me Kitty Chang was graduated from National Chung Cheng University, majoring in Accounting and Information Technology. With 1year in Accounting industry and 2+ years of experience in Marketing and Internet industry. Besides her major , she also manages Instagram x Medium x YouTube channel . Passion for creative content, book recommendations, and perspective sharing. While she is free, he likes writing business blog posts, playing table tennis &amp;amp; squash,</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://chian0111.github.io/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chian0111.github.io/notes/</guid>
+      <description>Kitty&amp;rsquo;s Medium </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://chian0111.github.io/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chian0111.github.io/search/placeholder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts Archive</title>
+      <link>https://chian0111.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chian0111.github.io/archive/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
