@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>自我實現 on Kitty&#39;s Blog</title>
-    <link>https://chian0111.github.io/tags/%E8%87%AA%E6%88%91%E5%AF%A6%E7%8F%BE/</link>
+    <link>http://localhost:1313/tags/%E8%87%AA%E6%88%91%E5%AF%A6%E7%8F%BE/</link>
     <description>Recent content in 自我實現 on Kitty&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://chian0111.github.io/tags/%E8%87%AA%E6%88%91%E5%AF%A6%E7%8F%BE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E8%87%AA%E6%88%91%E5%AF%A6%E7%8F%BE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>😁 113 政大俄羅斯正一 / 企研所（經管組）考研心得分享文</title>
-      <link>https://chian0111.github.io/2024/03/11/graduate-school/</link>
+      <link>http://localhost:1313/2024/03/11/graduate-school/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://chian0111.github.io/2024/03/11/graduate-school/</guid>
+      <guid>http://localhost:1313/2024/03/11/graduate-school/</guid>
       <description># 經驗分享 零、前言 應該很少人知道這個考研計畫， 我幾乎沒有分享過，只有比較熟的親朋好友才知道。 如果說人生是一場遊戲， 那麼考研之旅，我認為是「人</description>
     </item>
   </channel>

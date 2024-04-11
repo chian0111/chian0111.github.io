@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>早午餐 on Kitty&#39;s Blog</title>
-    <link>https://chian0111.github.io/tags/%E6%97%A9%E5%8D%88%E9%A4%90/</link>
+    <link>http://localhost:1313/tags/%E6%97%A9%E5%8D%88%E9%A4%90/</link>
     <description>Recent content in 早午餐 on Kitty&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://chian0111.github.io/tags/%E6%97%A9%E5%8D%88%E9%A4%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%97%A9%E5%8D%88%E9%A4%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🍔 面試分享 — EGG BUN Breakfast Sandwich &amp; Espresso 儲備幹部</title>
-      <link>https://chian0111.github.io/2023/07/16/EGG_BUN_Breakfast/</link>
+      <link>http://localhost:1313/2023/07/16/EGG_BUN_Breakfast/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://chian0111.github.io/2023/07/16/EGG_BUN_Breakfast/</guid>
+      <guid>http://localhost:1313/2023/07/16/EGG_BUN_Breakfast/</guid>
       <description>結果：已拿到offer （拒絕&amp;gt;&amp;lt;） 一、自我介紹＋為什麼想來應徵這個工作？ （顧名思義，就是自己應該準備的部分拉！） 二、會準備一些問</description>
     </item>
   </channel>

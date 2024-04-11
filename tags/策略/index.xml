@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>策略 on Kitty&#39;s Blog</title>
-    <link>https://chian0111.github.io/tags/%E7%AD%96%E7%95%A5/</link>
+    <link>http://localhost:1313/tags/%E7%AD%96%E7%95%A5/</link>
     <description>Recent content in 策略 on Kitty&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://chian0111.github.io/tags/%E7%AD%96%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%AD%96%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>✊🏻 BCG Model（ BCG Growth Share Matrix ）</title>
-      <link>https://chian0111.github.io/2024/02/15/BCG_Model/</link>
+      <link>http://localhost:1313/2024/02/15/BCG_Model/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://chian0111.github.io/2024/02/15/BCG_Model/</guid>
+      <guid>http://localhost:1313/2024/02/15/BCG_Model/</guid>
       <description>＊圓圈大小表示 SBU 的銷售收入比例 一、模式目的 The Boston Consulting Group (BCG) growth-share matrix is a planning tool that uses graphical representations of a company’s products and services in an effort to help the company decide what it should keep, sell, or invest more in. （目的</description>
     </item>
     <item>
       <title>😛 SWOT 分析 — 檢視企業與外界的強弱關係</title>
-      <link>https://chian0111.github.io/2024/02/15/swot./</link>
+      <link>http://localhost:1313/2024/02/15/swot./</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://chian0111.github.io/2024/02/15/swot./</guid>
+      <guid>http://localhost:1313/2024/02/15/swot./</guid>
       <description>本篇文章將分為以下內容： ㄧ、SWOT 分析是什麼？ 二、SWOT 分析的策略分析方法。 一、何謂 SWOT 分析 （一）基礎概念 透過「內部、外部」條件與「正面、</description>
     </item>
     <item>
       <title>😝 Ansoff 產品擴張矩陣 — 幫助企業建構產品與市場的關係</title>
-      <link>https://chian0111.github.io/2024/02/15/Ansoff/</link>
+      <link>http://localhost:1313/2024/02/15/Ansoff/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://chian0111.github.io/2024/02/15/Ansoff/</guid>
+      <guid>http://localhost:1313/2024/02/15/Ansoff/</guid>
       <description>Market Penetration The concept of increasing sales of existing products into an existing market（提高市佔率） Market Development Focuses on selling existing products into new markets Product Development Focuses on introducing new products to an existingmarket Diversification The concept of entering a new market with altogether new products</description>
     </item>
     <item>
       <title>😮 Porter 五力分析 — 幫助檢視產業競爭的方式</title>
-      <link>https://chian0111.github.io/2024/02/15/porter_5powers./</link>
+      <link>http://localhost:1313/2024/02/15/porter_5powers./</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://chian0111.github.io/2024/02/15/porter_5powers./</guid>
+      <guid>http://localhost:1313/2024/02/15/porter_5powers./</guid>
       <description>一、前言 （一）由內而外、由外而內的策略觀點 內在分析（優勢與劣勢）：Prahalad &amp;amp; Hamel 資源基礎觀點 外在分析（機會與威脅）：Porter 競爭優</description>
     </item>
     <item>
       <title>🤭 Porter 競爭優勢 — 任何策略的核心</title>
-      <link>https://chian0111.github.io/2024/02/15/porter/</link>
+      <link>http://localhost:1313/2024/02/15/porter/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://chian0111.github.io/2024/02/15/porter/</guid>
+      <guid>http://localhost:1313/2024/02/15/porter/</guid>
       <description>時代背景：1980年代 1. 成本領導：以較低的價格在市場上競爭 適用廠商：具規模經濟，市場佔有率最高的廠商、且產品同質性較高 降低製造和配銷成本，就</description>
     </item>
   </channel>

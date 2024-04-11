@@ -2,17 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>地特 on Kitty&#39;s Blog</title>
-    <link>https://chian0111.github.io/tags/%E5%9C%B0%E7%89%B9/</link>
+    <link>http://localhost:1313/tags/%E5%9C%B0%E7%89%B9/</link>
     <description>Recent content in 地特 on Kitty&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://chian0111.github.io/tags/%E5%9C%B0%E7%89%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%9C%B0%E7%89%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>😐 109 地特三等＿歷屆＿訂正（選擇題）</title>
+      <link>http://localhost:1313/2023/07/15/109_d3_1/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/07/15/109_d3_1/</guid>
+      <description>甲公司於生產過程中產出 400 單位副產品，該產品後續加工處理後以單位售價$10 出售，副產品之 加工及銷管成本共計$1,500，若甲公司對副產品之會計</description>
+    </item>
+    <item>
+      <title>🤨 109 地特四等＿成本會計＿歷屆試題訂正（選擇題）</title>
+      <link>http://localhost:1313/2023/07/15/109_d4_1/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/07/15/109_d4_1/</guid>
+      <description>(A) 實際製造費用=實際固定製造費用+實際變動製造費用 (B) 實際彈性製造費用=固定製造費用分攤率基準產能+變動製造費用分攤率 實際產能 (C) 標準彈性製造費</description>
+    </item>
     <item>
       <title>🥸 109 地特四等＿成本會計＿歷屆試題訂正（申論題）</title>
-      <link>https://chian0111.github.io/2023/07/15/109/</link>
+      <link>http://localhost:1313/2023/07/15/109_d3_2/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://chian0111.github.io/2023/07/15/109/</guid>
+      <guid>http://localhost:1313/2023/07/15/109_d3_2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>🥸 109 地特四等＿成本會計＿歷屆試題訂正（申論題）</title>
+      <link>http://localhost:1313/2023/07/15/109_d4_2/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2023/07/15/109_d4_2/</guid>
       <description></description>
     </item>
   </channel>
