@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技能 on Kitty&#39;s Blog</title>
+    <link>http://localhost:1313/tags/%E6%8A%80%E8%83%BD/</link>
+    <description>Recent content in 技能 on Kitty&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%8A%80%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>💼 以社會新鮮人的角度，分享我想點亮的技能樹 🌳</title>
+      <link>http://localhost:1313/2024/04/10/skill_tree/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/04/10/skill_tree/</guid>
+      <description>Photo by Dave Hoefler on Unsplash 這一題有點難， 先讓我去倒杯水（開玩笑～） 我思考了好多天，終於生出來這篇文。 想做的事、學的知識很多， 正是如此，才需要此篇文章來收斂</description>
+    </item>
+  </channel>
+</rss>
