@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Kitty&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024</title>
+      <link>http://localhost:1313/tags/2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>復盤</title>
+      <link>http://localhost:1313/tags/%E5%BE%A9%E7%9B%A4/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%BE%A9%E7%9B%A4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>目標</title>
+      <link>http://localhost:1313/tags/%E7%9B%AE%E6%A8%99/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%9B%AE%E6%A8%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
     <item>
       <title>SDGs</title>
       <link>http://localhost:1313/tags/sdgs/</link>
@@ -30,6 +58,69 @@
       <description></description>
     </item>
     <item>
+      <title>永續生態圈</title>
+      <link>http://localhost:1313/tags/%E6%B0%B8%E7%BA%8C%E7%94%9F%E6%85%8B%E5%9C%88/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B0%B8%E7%BA%8C%E7%94%9F%E6%85%8B%E5%9C%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>永續發展目標</title>
+      <link>http://localhost:1313/tags/%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95%E7%9B%AE%E6%A8%99/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95%E7%9B%AE%E6%A8%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>淨零轉型</title>
+      <link>http://localhost:1313/tags/%E6%B7%A8%E9%9B%B6%E8%BD%89%E5%9E%8B/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B7%A8%E9%9B%B6%E8%BD%89%E5%9E%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>減碳</title>
+      <link>http://localhost:1313/tags/%E6%B8%9B%E7%A2%B3/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B8%9B%E7%A2%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>減零碳排</title>
+      <link>http://localhost:1313/tags/%E6%B8%9B%E9%9B%B6%E7%A2%B3%E6%8E%92/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B8%9B%E9%9B%B6%E7%A2%B3%E6%8E%92/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>碳排</title>
+      <link>http://localhost:1313/tags/%E7%A2%B3%E6%8E%92/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%A2%B3%E6%8E%92/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>碳費</title>
+      <link>http://localhost:1313/tags/%E7%A2%B3%E8%B2%BB/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%A2%B3%E8%B2%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>統一</title>
+      <link>http://localhost:1313/tags/%E7%B5%B1%E4%B8%80/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%B5%B1%E4%B8%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>高雄</title>
+      <link>http://localhost:1313/tags/%E9%AB%98%E9%9B%84/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E9%AB%98%E9%9B%84/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>職涯</title>
       <link>http://localhost:1313/tags/%E8%81%B7%E6%B6%AF/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
@@ -41,13 +132,6 @@
       <link>http://localhost:1313/tags/%E9%9D%A2%E8%A9%A6%E5%88%86%E4%BA%AB/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E9%9D%A2%E8%A9%A6%E5%88%86%E4%BA%AB/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2024</title>
-      <link>http://localhost:1313/tags/2024/</link>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/2024/</guid>
       <description></description>
     </item>
     <item>
